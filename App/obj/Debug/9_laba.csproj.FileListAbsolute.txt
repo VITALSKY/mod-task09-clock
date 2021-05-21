@@ -1,0 +1,9 @@
+C:\Users\vital\source\repos\9_laba\9_laba\bin\Debug\9_laba.exe.config
+C:\Users\vital\source\repos\9_laba\9_laba\bin\Debug\9_laba.exe
+C:\Users\vital\source\repos\9_laba\9_laba\bin\Debug\9_laba.pdb
+C:\Users\vital\source\repos\9_laba\9_laba\obj\Debug\_9_laba.Form1.resources
+C:\Users\vital\source\repos\9_laba\9_laba\obj\Debug\_9_laba.Properties.Resources.resources
+C:\Users\vital\source\repos\9_laba\9_laba\obj\Debug\9_laba.csproj.GenerateResource.cache
+C:\Users\vital\source\repos\9_laba\9_laba\obj\Debug\9_laba.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\9_laba\9_laba\obj\Debug\9_laba.exe
+C:\Users\vital\source\repos\9_laba\9_laba\obj\Debug\9_laba.pdb
